@@ -1,2 +1,0 @@
-# RATTLE
-Created with CodeSandbox
